@@ -7,7 +7,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: rgb(65, 103, 197);
 }
 
 .title{
@@ -29,7 +29,7 @@ body{
 }
 .question button{
     width: 100%;
-    background-color: #000;
+    background-color: #26a9b3;
     display: flex;
     justify-content: space-between;
     align-items: center;
